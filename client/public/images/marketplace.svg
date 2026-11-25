@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" fill="none">
+  <defs>
+    <linearGradient id="sky" x1="90" y1="28" x2="526" y2="382" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DBEAFE"/>
+      <stop offset="1" stop-color="#BFDBFE"/>
+    </linearGradient>
+    <linearGradient id="building" x1="160" y1="154" x2="487" y2="370" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#CBD5E1"/>
+    </linearGradient>
+  </defs>
+  <rect x="14" y="12" width="612" height="396" rx="32" fill="url(#sky)"/>
+  <circle cx="501" cy="94" r="37" fill="#FDE68A"/>
+  <path d="M56 324h528v54H56z" fill="#94A3B8"/>
+  <path d="M97 200h188v124H97z" fill="url(#building)"/>
+  <path d="m81 201 110-75 110 75H81Z" fill="#2563EB"/>
+  <path d="M130 231h45v40h-45zM205 231h45v40h-45z" fill="#93C5FD"/>
+  <path d="M321 164h217v160H321z" fill="url(#building)"/>
+  <path d="m301 165 128-72 129 72H301Z" fill="#0F172A"/>
+  <path d="M355 197h52v53h-52zM451 197h52v53h-52z" fill="#93C5FD"/>
+  <path d="M400 271h57v53h-57z" fill="#1E3A8A"/>
+  <path d="M120 328h397v19H120z" fill="#475569"/>
+  <rect x="131" y="288" width="87" height="37" rx="5" fill="#D97706"/>
+  <path d="M143 288v37m21-37v37m21-37v37" stroke="#FEF3C7" stroke-width="4"/>
+  <rect x="476" y="283" width="49" height="41" rx="4" fill="#059669"/>
+  <path d="M488 283v41m13-41v41" stroke="#D1FAE5" stroke-width="3"/>
+  <path d="M60 358h520" stroke="#E2E8F0" stroke-width="5" stroke-linecap="round"/>
+</svg>
